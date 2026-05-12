@@ -42,3 +42,12 @@ The program stores song information in:
 
 ```text
 song_database.txt
+
+## Technologies Used
+
+Project created with:
+
+- C language
+- GCC compiler
+- Code::Blocks IDE
+- C17 standard
